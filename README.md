@@ -10,6 +10,6 @@ Hi, I am a Software Engineer 👨‍💻
 
 💬 Ask me about CSS, javascript, react, react-native, nextjs, server-side rendering, redux, react-query, typescript, tailwind, SQL. . .
 
-📫 Let's have a conversation aakashbhardwaj643@gmail.com@gmail.com
+📫 Let's have a conversation aakashbhardwaj643@gmail.com
 
 ⚡ Fun fact: I like to cook, read books, and try out different stuff from time to time. 
