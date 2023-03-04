@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Aakash Bhardwaj</h1>
+<h1>Hi 👋, I'm Aakash Bhardwaj</h1>
 
 # 💫 About Me:
 🔭 Currently I am working as a full-time React/Frontend Developer in Gluelabs.<br>👯 I love exploring new technologies and frameworks. If you want to discuss something over programming, let's grab a cup of Coffee together.<br>🌱 I like to build websites, web applications, and everything in between. 🙂<br>💬 Ask me about CSS, javascript, react, react-native, nextjs, server-side rendering, redux, react-query, typescript, tailwind, SQL ...<br>🤝 Let's have a conversation at aakashbhardwaj643@gmail.com<br>⚡ Fun fact: I like to cook, read books, and try out different stuff from time to time.
