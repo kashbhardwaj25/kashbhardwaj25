@@ -1,6 +1,6 @@
 <h1>Hi 👋, <br><br>I'm Aakash Bhardwaj</h1>
 
-# 💫 About Me:
+# 💫 About Me: #
 🔭 Currently I am working as a full-time Software Developer in Gluelabs.<br>👯 I love exploring new technologies and frameworks. Let's grab a cup of coffee together if you want to discuss something over programming.<br>🌱 I like to build websites, mobile applications, and everything in between. 🙂<br>💬 Ask me about CSS, javascript, react, react-native, nextjs, server-side rendering, redux, react-query, typescript, tailwind, SQL ...<br>🤝 Let's have a conversation. Email me at aakashbhardwaj643@gmail.com<br>⚡ Fun fact: I like to cook, read books, travel, and try out different stuff from time to time.
 
 
